@@ -1,0 +1,124 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "José",
+      "email": "jose@gmail.com",
+      "nascimento": "2022-01-01"
+    },
+    {
+      "id": 2,
+      "nome": "Maria",
+      "email": "maria@gmail.com",
+      "nascimento": "2022-01-02"
+    },
+    {
+      "id": 3,
+      "nome": "João",
+      "email": "joao@gmail.com",
+      "nascimento": "2022-01-03"
+    },
+    {
+      "nome": "Joana Dark Maria Vasconcelos",
+      "email": "joanadark@gmail.com",
+      "nascimento": "2022-01-04",
+      "id": 4
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Pizza",
+      "preco": "R$ 20,00"
+    },
+    {
+      "id": 2,
+      "nome": "Hambúrguer",
+      "preco": "R$ 10,00"
+    },
+    {
+      "id": 3,
+      "nome": "Misto Quente",
+      "preco": "R$ 5,00"
+    },
+    {
+      "nome": "Milk Shake Duplo",
+      "preco": "R$ 7,00",
+      "id": 4
+    }
+  ],
+  "entregadores": [
+    {
+      "id": 1,
+      "nome": "Zico",
+      "email": "zico@gmail.com"
+    },
+    {
+      "id": 2,
+      "nome": "Yago",
+      "email": "yago@gmail.com"
+    },
+    {
+      "id": 3,
+      "nome": "Xuxa",
+      "email": "xuxa@gmail.com"
+    },
+    {
+      "nome": "Walber Júlio Drummond",
+      "email": "walber@gmail.com",
+      "id": 4
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": 1,
+      "nome": "Alberto",
+      "email": "alberto@gmail.com",
+      "cpf": "000.999.888-77"
+    },
+    {
+      "id": 2,
+      "nome": "Bruna",
+      "email": "bruna@gmail.com",
+      "cpf": "000.999.888-66"
+    },
+    {
+      "id": 3,
+      "nome": "Caio",
+      "email": "caio@gmail.com",
+      "cpf": "000.999.888-55"
+    },
+    {
+      "nome": "Daniel da Silva Barbosa",
+      "email": "daniel@gmail.com",
+      "cpf": "000.999.888-66",
+      "id": 4
+    }
+  ],
+  "fornecedores": [
+    {
+      "id": 1,
+      "nome": "Perdigão",
+      "email": "perdigao@gmail.com",
+      "cnpj": "000.999.000001-77"
+    },
+    {
+      "id": 2,
+      "nome": "Sadia",
+      "email": "sadia@gmail.com",
+      "cnpj": "000.999.000001-66"
+    },
+    {
+      "id": 3,
+      "nome": "Bom Todo",
+      "email": "bomtodo@gmail.com",
+      "cnpj": "000.999.000001-55"
+    },
+    {
+      "nome": "Nestlê S.A. do Brasil",
+      "email": "nestle@gmail.com",
+      "cnpj": "000.999.000001-66",
+      "id": 4
+    }
+  ]
+}
